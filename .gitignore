@@ -1,0 +1,12 @@
+**/.metadata
+**/.recommenders
+**/.settings
+**/bin
+**/.project
+**/.classpath
+**/Debug
+**/.cproject
+**/.project
+**/*.stackdump
+**/RemoteSystemsTempFiles
+**/.swp
